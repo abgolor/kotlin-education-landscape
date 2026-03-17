@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![Research](https://img.shields.io/badge/type-research-blue)
+![Language](https://img.shields.io/badge/language-Kotlin-orange)
+
 # Kotlin Education Landscape
 
 A data-driven research project analyzing how Kotlin is taught across universities, bootcamps, and online learning platforms worldwide.
